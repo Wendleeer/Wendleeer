@@ -3,21 +3,22 @@ name: generate pacman game
 on:
   schedule:
     - cron: "0 */24 * * *"
-  workflow_dispatch
+  workflow_dispatch:
 
 jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
 
     steps:
       - name: generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Wendleer
 
-      - name: push to output branch
+      - name: push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
