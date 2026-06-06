@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 
 </div>
 
@@ -35,9 +35,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendleer&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendleeer&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendleer&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendleeer&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wendleer&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wendleeer&theme=tokyonight" />
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Wendleer&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Wendleeer&theme=tokyonight&row=1&column=7" />
 
 </div>
 
@@ -68,14 +68,14 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Wendleer/Wendleer/output/pacman-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/Wendleer/Wendleeer/output/pacman-contribution-graph-dark.svg">
 
 ```
 <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/Wendleer/Wendleer/output/pacman-contribution-graph.svg">
+  srcset="https://raw.githubusercontent.com/Wendleeer/Wendleer/output/pacman-contribution-graph.svg">
 
 <img alt="pacman contribution graph"
-  src="https://raw.githubusercontent.com/Wendleer/Wendleer/output/pacman-contribution-graph.svg">
+  src="https://raw.githubusercontent.com/Wendleer/Wendleeer/output/pacman-contribution-graph.svg">
 ```
 
   </picture>
@@ -85,7 +85,7 @@
 
 ## 🐍 Snake
 
-![Snake animation](https://github.com/Wendleer/Wendleer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Wendleer/Wendleeer/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
