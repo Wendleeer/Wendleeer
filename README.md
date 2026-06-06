@@ -1,99 +1,45 @@
-<h1 align="center">👋 Olá, eu sou Wendleer</h1>
+<h6 align="center">Me chamo Wendler Soares.<br>💻 Desenvolvedor e entusiasta de tecnologia<br>🐍 Estudando e criando projetos com Python<br>⚡ Desenvolvendo aplicações com JavaScript<br>🐧 Explorando o ecossistema Linux<br>🗄️ Trabalhando com bancos de dados MySQL<br>🌱 Aprendendo continuamente novas tecnologias</h6>
 
-<p align="center">
-  Desenvolvedor em constante aprendizado 🚀
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/Wendleer">
-    <img src="https://komarev.com/ghpvc/?username=Wendleer&label=Visualizações&color=blue&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-* 💻 Apaixonado por tecnologia
-* 📚 Sempre aprendendo novas ferramentas
-* 🎯 Focado em evolução constante
-* 🌎 Brasil
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
----
-
-## 📊 Estatísticas
+###
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendleeer&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendleeer&layout=compact&theme=tokyonight"/>
-
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
 </div>
 
----
+###
 
-## 🔥 Sequência de contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendleeer/Wendleeer/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendleeer/Wendleeer/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wendleeer/Wendleeer/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wendleeer&theme=tokyonight" />
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wendleeer.Wendleeer&left_color=blue&left_text=Curiosos"  />
 </div>
 
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Wendleeer&theme=tokyonight&row=1&column=7" />
-
-</div>
-
----
-
-## 👾 Pac-Man
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Wendleer/Wendleeer/output/pacman-contribution-graph-dark.svg">
-
-```
-<source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/Wendleeer/Wendleer/output/pacman-contribution-graph.svg">
-
-<img alt="pacman contribution graph"
-  src="https://raw.githubusercontent.com/Wendleer/Wendleeer/output/pacman-contribution-graph.svg">
-```
-
-  </picture>
-</p>
-
----
-
-## 🐍 Snake
-
-![Snake animation](https://github.com/Wendleer/Wendleeer/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="SEU_LINK_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:SEU_EMAIL">Email</a>
-</p>
-
-⭐ Obrigado por visitar meu perfil!
+###
