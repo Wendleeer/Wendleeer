@@ -1,7 +1,9 @@
 <h4 align="center">Me chamo Wendler Soares.<br>💻 Desenvolvedor e entusiasta de tecnologia<br>🐍 Estudando e criando projetos com Python<br>⚡ Desenvolvendo aplicações com JavaScript<br>🐧 Explorando o ecossistema Linux<br>🗄️ Trabalhando com bancos de dados MySQL<br>🌱 Aprendendo continuamente novas tecnologias</h4>
 
 ###
-
+<div style="background:
+#2d0059
+;"> Cor roxo como fundo de uma div.</div>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -26,4 +28,5 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+
 </div>
