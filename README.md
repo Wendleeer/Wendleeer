@@ -1,8 +1,9 @@
-<h4 align="center">Me chamo Wendler Soares.<br>💻 Desenvolvedor e entusiasta de tecnologia<br>🐍 Estudando e criando projetos com Python<br>⚡ Desenvolvendo aplicações com JavaScript<br>🐧 Explorando o ecossistema Linux<br>🗄️ Trabalhando com bancos de dados MySQL<br>🌱 Aprendendo continuamente novas tecnologias</h4>
+<h5 align="center">Olá! Sou Wendler Soares, desenvolvedor e entusiasta em cybersecurity, apaixonado por criar soluções e aprender continuamente novas ferramentas e conceitos.
 
-###
-<div style="background:
-#2d0059;">
+Atualmente, estudo e desenvolvo projetos com Python, construo aplicações modernas utilizando JavaScript e exploro o vasto ecossistema Linux para aprimorar meus conhecimentos em sistemas e infraestrutura.
+Também trabalho com bancos de dados MySQL, buscando sempre desenvolver aplicações eficientes, escaláveis e bem estruturadas. Acredito que a tecnologia está em constante evolução, por isso mantenho uma rotina de aprendizado contínuo para acompanhar novas tendências e desafios do universo da programação.
+
+🚀 Transformando ideias em código e conhecimento em soluções.</h5>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -28,6 +29,10 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-
-</div>
+  <!--Pac man-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendleeer/Wendleeer/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendleeer/Wendleeer/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wendleeer/Wendleeer/pacman-output/pacman-contribution-graph.svg">
+</picture>
 </div>
