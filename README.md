@@ -1,4 +1,4 @@
-<h6 align="center">Me chamo Wendler Soares.<br>💻 Desenvolvedor e entusiasta de tecnologia<br>🐍 Estudando e criando projetos com Python<br>⚡ Desenvolvendo aplicações com JavaScript<br>🐧 Explorando o ecossistema Linux<br>🗄️ Trabalhando com bancos de dados MySQL<br>🌱 Aprendendo continuamente novas tecnologias</h6>
+<h4 align="center">Me chamo Wendler Soares.<br>💻 Desenvolvedor e entusiasta de tecnologia<br>🐍 Estudando e criando projetos com Python<br>⚡ Desenvolvendo aplicações com JavaScript<br>🐧 Explorando o ecossistema Linux<br>🗄️ Trabalhando com bancos de dados MySQL<br>🌱 Aprendendo continuamente novas tecnologias</h4>
 
 ###
 
