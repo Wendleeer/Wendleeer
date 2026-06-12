@@ -27,11 +27,3 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
 </div>
-
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wendleeer.Wendleeer&left_color=blue&left_text=Curiosos"  />
-</div>
-
-###
