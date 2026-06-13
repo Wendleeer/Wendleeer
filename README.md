@@ -3,7 +3,7 @@
 Atualmente, estudo e desenvolvo projetos com Python, construo aplicações modernas utilizando JavaScript e exploro o vasto ecossistema Linux para aprimorar meus conhecimentos em sistemas e infraestrutura.
 Também trabalho com bancos de dados MySQL, buscando sempre desenvolver aplicações eficientes, escaláveis e bem estruturadas. Acredito que a tecnologia está em constante evolução, por isso mantenho uma rotina de aprendizado contínuo para acompanhar novas tendências e desafios do universo da programação.
 
-🚀 Transformando ideias em código e conhecimento em soluções.</h5>
+🚀 Transformando ideias em códigos e conhecimentos em soluções.</h5>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
