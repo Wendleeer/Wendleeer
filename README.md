@@ -6,7 +6,7 @@ Também trabalho com bancos de dados MySQL, buscando sempre desenvolver aplicaç
 🚀 Transformando ideias em código e conhecimento em soluções.</h5>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
   <img width="12" />
